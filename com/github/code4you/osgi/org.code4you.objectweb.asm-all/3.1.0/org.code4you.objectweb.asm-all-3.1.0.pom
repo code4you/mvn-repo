@@ -3,6 +3,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.code4you.osgi</groupId>
-  <artifactId>org.objectweb.asm</artifactId>
+  <artifactId>org.code4you.objectweb.asm-all</artifactId>
   <version>3.1.0</version>
 </project>
